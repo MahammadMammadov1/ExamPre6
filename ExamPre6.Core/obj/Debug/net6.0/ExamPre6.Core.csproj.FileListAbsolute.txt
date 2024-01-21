@@ -1,0 +1,14 @@
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\bin\Debug\net6.0\ExamPre6.Core.deps.json
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\bin\Debug\net6.0\ExamPre6.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\bin\Debug\net6.0\ExamPre6.Core.pdb
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\refint\ExamPre6.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.pdb
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ref\ExamPre6.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\bin\Debug\net6.0\ExamPre6.Core.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Core\obj\Debug\net6.0\ExamPre6.Core.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+﻿@model Client
+
+<div class="container-fluid">
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label">FullName</label>
+            <input asp-for="FullName" class="form-control">
+            <span asp-validation-for="FullName"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="City" class="form-label">City</label>
+            <input asp-for="City" class="form-control">
+            <span asp-validation-for="City"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <input asp-for="Description" class="form-control">
+            <span asp-validation-for="Description"></span>
+        </div>
+        
+        <div class="mb-3">
+            <label asp-for="FormFile" class="form-label">FormFile</label>
+            <input asp-for="FormFile" class="form-control">
+            <span asp-validation-for="FormFile"></span>
+        </div>
+        <div class="mb-3 form-check">
+            <input asp-for="IsDeleted" type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label asp-for="IsDeleted" class="form-check-label" for="exampleCheck1">IsDeleted</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

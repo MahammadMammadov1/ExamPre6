@@ -1,0 +1,17 @@
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\bin\Debug\net6.0\ExamPre6.Data.deps.json
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\bin\Debug\net6.0\ExamPre6.Data.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\bin\Debug\net6.0\ExamPre6.Data.pdb
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\refint\ExamPre6.Data.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.pdb
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ref\ExamPre6.Data.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\bin\Debug\net6.0\ExamPre6.Data.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\bin\Debug\net6.0\ExamPre6.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\bin\Debug\net6.0\ExamPre6.Core.pdb
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.csproj.CopyComplete
+C:\Users\Mehemmed\Desktop\Exam Pre\ExamPre6\ExamPre6.Data\obj\Debug\net6.0\ExamPre6.Data.genruntimeconfig.cache

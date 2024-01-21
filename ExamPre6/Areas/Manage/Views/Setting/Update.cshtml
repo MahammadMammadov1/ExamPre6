@@ -1,0 +1,19 @@
+﻿@model Setting
+
+<div class="container-fluid row text-align-center justify-content-between">
+    <h4>Clients Update Page</h4>
+    <a asp-action="index" asp-controller="setting" class=" btn btn-success">Go Back</a>
+</div>
+
+<div class="container-fluid">
+    <form method="post" >
+        <div class="mb-3">
+            <label asp-for="Value" class="form-label">FullName</label>
+            <input asp-for="Value" class="form-control">
+            <span asp-validation-for="Value"></span>
+        </div>
+        
+
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>
